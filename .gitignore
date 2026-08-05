@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Build folders
+build/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Qt generated
+moc_*
+qrc_*
+ui_*
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.app
+*.out

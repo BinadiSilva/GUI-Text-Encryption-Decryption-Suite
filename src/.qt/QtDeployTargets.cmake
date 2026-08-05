@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_EncryptionSuite_FILE /Users/binadisilva/Documents/Mini_Project/EncryptionSuite/src/EncryptionSuite)
+set(__QT_DEPLOY_TARGET_EncryptionSuite_TYPE EXECUTABLE)
