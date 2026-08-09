@@ -1,4 +1,8 @@
 # 🔐 GUI-based Text Encryption & Decryption Suite
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?logo=c%2B%2B)
+![Qt](https://img.shields.io/badge/Qt-Framework-green?logo=qt)
+![CMake](https://img.shields.io/badge/CMake-Build%20System-blue?logo=cmake)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 A desktop application developed using **C++ and Qt** that allows users to encrypt and decrypt text using six classical cryptographic algorithms through a graphical user interface.
 
