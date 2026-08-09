@@ -4,13 +4,9 @@ A desktop application developed using **C++ and Qt** that allows users to encryp
 
 The project demonstrates **Object-Oriented Programming (OOP)** concepts including abstraction, encapsulation, inheritance, polymorphism, and modular software design.
 
----
-
 ## 📅 Project Duration
 
 **July 2025 – August 2025**
-
----
 
 ## 📌 Project Overview
 
@@ -19,8 +15,6 @@ The **GUI-based Text Encryption & Decryption Suite** provides a simple graphical
 The application supports six different classical cipher techniques and provides file input/output functionality for loading text and saving encrypted/decrypted results.
 
 The GUI provides cipher selection, key input, encryption/decryption controls, result display, and file operations. 
-
----
 
 # 🔐 Encryption Methods
 
@@ -49,8 +43,6 @@ Encrypted: KHOOR
 
 The same shift is applied in the reverse direction to recover the original text.
 
----
-
 ## 2. Atbash Cipher
 
 The Atbash Cipher replaces each letter with its corresponding letter from the reversed alphabet.
@@ -75,8 +67,6 @@ Plaintext:  HELLO
 Encrypted: SVOOL
 ```
 
----
-
 ## 3. Vigenère Cipher
 
 The Vigenère Cipher is a polyalphabetic substitution cipher that uses a repeating keyword to determine the character shifts.
@@ -99,8 +89,6 @@ Encrypted: RIJVS
 ```
 
 The keyword continues cycling when the plaintext is longer than the key.
-
----
 
 ## 4. Simple Substitution Cipher
 
@@ -126,8 +114,6 @@ QWERTYUIOPASDFGHJKLZXCVBNM
 ```
 
 Each plaintext letter is replaced using the corresponding position in the substitution key.
-
----
 
 ## 5. Columnar Transposition Cipher
 
@@ -158,8 +144,6 @@ alphabetical order of the key.
 ```
 
 The decryption process reconstructs the column arrangement to recover the original text.
-
----
 
 ## 6. XOR Cipher
 
@@ -192,8 +176,6 @@ Because XOR is symmetric:
 (A XOR B) XOR B = A
 ```
 
----
-
 # ✨ Application Features
 
 - 🔒 Text encryption
@@ -208,8 +190,6 @@ Because XOR is symmetric:
 - 🧩 Modular Object-Oriented design
 
 The GUI provides controls for selecting the cipher, entering the required key, encrypting/decrypting, and saving or loading text. 
-
----
 
 # 🧩 Object-Oriented Programming
 
@@ -241,8 +221,6 @@ Cipher-specific data and functionality are contained within their respective cla
 ### Composition
 
 The application components work together through classes such as the cipher factory and GUI application components.
-
----
 
 # 🏗️ Architecture
 
@@ -281,8 +259,6 @@ The application follows a modular design:
                     └──────────────────┘
 ```
 
----
-
 # 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -292,8 +268,6 @@ The application follows a modular design:
 | **CMake** | Build and project configuration |
 | **Git** | Version control |
 | **GitHub** | Source code management |
-
----
 
 # 📁 Project Structure
 
@@ -328,8 +302,6 @@ GUI-Text-Encryption-Decryption-Suite
 ├── .gitignore
 └── README.md
 ```
-
----
 
 # 🚀 Getting Started
 
@@ -376,8 +348,6 @@ On macOS:
 ./build/EncryptionSuite
 ```
 
----
-
 # 📸 Screenshots
 
 Screenshots of the application will be added here.
@@ -394,8 +364,6 @@ Screenshots of the application will be added here.
 
 ![Decryption](assets/decryption.png)
 
----
-
 # 🎓 Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -411,8 +379,6 @@ Through this project, I gained practical experience in:
 - CMake
 - Git and GitHub
 
----
-
 # 🔮 Future Improvements
 
 Possible future improvements include:
@@ -426,8 +392,6 @@ Possible future improvements include:
 - Additional cipher algorithms
 - Improved cross-platform support
 
----
-
 # 👩‍💻 Author
 
 **Binadi Silva**
@@ -436,9 +400,7 @@ GitHub:
 https://github.com/BinadiSilva
 
 LinkedIn:  
-https://www.linkedin.com/
-
----
+linkedin.com/in/binadi-silva-2916a82b5
 
 # 📄 License
 
